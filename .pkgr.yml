@@ -1,3 +1,4 @@
+cli: scout
 targets:
   debian-7:
   ubuntu-12.04:
